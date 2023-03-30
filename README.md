@@ -14,8 +14,6 @@
 I am a junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and operations professional from Miami, FL.
 - :telescope: I’m currently working as an Operations Manager specializing in event technology, and also studying Full Stack Web Development at Miami Dade College. In the summer of '23 I will begin an A.S. program in Computer Programming and Analytics, with a focus on Mobile Application Development. 
 
-- :zap: In my free time, I like to work on 3D Printing projects, particularly ones that use technology to solve problems or facilitate tasks. Currently, I am exploring robotics using arduino micro-controlllers and servo motors along with 3D printed parts.
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
