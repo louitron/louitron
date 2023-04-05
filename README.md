@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 I am a junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and operations professional from Miami, FL.
-- :telescope: I’m currently working as an Operations Manager specializing in event technology, and also studying Full Stack Web Development at Miami Dade College. In the summer of '23 I will begin an A.S. program in Computer Programming and Analytics, with a focus on Mobile Application Development. 
+- :telescope: I'm currently about to finish a Full Stack Web Development Bootcamp, and am also working on an A.S. degree in Computer Programming and Analysis with a concentration on Business Applications.
 
 ---
 
