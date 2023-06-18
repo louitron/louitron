@@ -11,8 +11,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and operations professional from Miami, FL.
-- :telescope: I'm currently about to finish a Full Stack Web Development Bootcamp, and am also working on an A.S. degree in Computer Programming and Analysis with a concentration on Business Applications.
+I am a developer specializing in web development and gui applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Miami, FL.
+- :telescope: 
 
 ---
 
